@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Leagues API Key</key>
+	<string>84750796013336dbad8a4dd41ee9142be486126f79ce52801e7bdc0e452f3f6c</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.31216093894-uicmb63abvai3hpi1f41i7h14d3jkok8</string>
+			</array>
+		</dict>
+	</array>
+	<key>GIDClientID</key>
+	<string>31216093894-uicmb63abvai3hpi1f41i7h14d3jkok8.apps.googleusercontent.com</string>
+</dict>
+</plist>
